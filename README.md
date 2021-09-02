@@ -1,2 +1,2 @@
 # First_github
-This is for firdt trial.
+This is for first trial.
